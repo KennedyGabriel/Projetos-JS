@@ -1,4 +1,4 @@
-const prod1 = {};
+const prod1 = {}; //Um objeto vazio feito por um par de chaves
 prod1.nome = "iPhone 13";
 prod1.preco = 7799.99;
 prod1["Desconto Legal"] = 0.40; //Evitar atributos com espaço

@@ -6,8 +6,8 @@ console.log(typeof peso1, typeof peso2)
 
 console.log(Number.isInteger(peso1))
 console.log(Number.isInteger(peso2))
-/*Number.isInteger testa se o value passado é um inteiro.
-Retomando true and false (verdadeiro e falso, respectivamente)*/
+/*Number.isInteger testa se o valor passado é um inteiro.
+Retomando true e false (verdadeiro e falso, respectivamente)*/
 
 const avaliacao1 = 9.871
 const avaliacao2 = 6.871

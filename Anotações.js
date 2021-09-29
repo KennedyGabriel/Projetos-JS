@@ -1,9 +1,12 @@
-//FIFO = First In First Out
-//LIFO = Last In First Out
+/*
+FIFO = First In First Out
+LIFO = Last In First Out
 
-//Number com 'N" é a função
-//number com 'n' é o tipo do dado
+Number com 'N" é a função
+Number com 'n' é o tipo do dado 
 
-//Nan = Not a number (não é um número)
+Nan = Not a number (não é um número)
 
-//As atribuições podem ser por valor (tipos primitivos) ou por referência (objetos e funções em que você aponta para o mesmo lugar na memória)
+As atribuições podem ser por valor (tipos primitivos) ou por referência (objetos e funções em que você aponta para o mesmo lugar na memória)
+
+*/
