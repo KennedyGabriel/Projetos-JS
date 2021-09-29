@@ -1,0 +1,1 @@
+Fazer um projeto em que vou definir algumas constantes de depois usarei '.charAt' para formar outra palavra
