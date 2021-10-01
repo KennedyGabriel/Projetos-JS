@@ -15,4 +15,4 @@ function teste(){
     console.log(algo);
 }
 
-//console.log(algo); //Erro. A variável 'algo' não será exibida porque só foi definida dentro da função
+//console.log(algo); //Erro! A variável 'algo' não será exibida porque só foi definida dentro da função
